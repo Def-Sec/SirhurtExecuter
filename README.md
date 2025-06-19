@@ -15,7 +15,3 @@ advanced Lua Execution Utility built as a universal debugging/sandboxing tool. F
 - 💼 Customizable UI for script editing
 - ☁️ Cross-game compatibility (where applicable)
 
- ⚠️       Download Link!       ⚠️
-
-https://limewire.com/d/MpGDT#5aGFT0o3ST
- ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️
