@@ -1,5 +1,7 @@
 SirHurt V5 🚀
-A premium Lua execution utility for Windows.
+A premium Lua execution utility for Windows And On Mobile Androids
+
+## To Download On Android Just Download The Apk Not The Whole Zip!!
 
 Originally launched privately in 2015, SirHurt has been completely rewritten for 2023–2025 with the goal of delivering top-tier user experience while maintaining code integrity.
 ![image](https://github.com/user-attachments/assets/92edf913-a4ca-4db5-a63e-0589eb54426b)
