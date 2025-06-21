@@ -1,5 +1,5 @@
 SirHurt V5 🚀
-A premium Lua execution utility for Windows And On Mobile Androids
+A premium Lua execution utility for Windows And On Mobile For Androids
 
 ## To Download On Android Just Download The Apk Not The Whole Zip!!
 
